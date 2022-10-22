@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>80991666253-4q4v0v4hbrl20brvu7romalj83s8k3lb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.80991666253-4q4v0v4hbrl20brvu7romalj83s8k3lb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>80991666253-bj1pntaaf4abktjgod1jf7lhep0uqoig.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBIoLAHw4w0fhhwxiJLlJVAzVi7lnhDHg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>80991666253</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.orlandopredators</string>
+	<key>PROJECT_ID</key>
+	<string>orlando-predators-35d13</string>
+	<key>STORAGE_BUCKET</key>
+	<string>orlando-predators-35d13.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:80991666253:ios:9d36e4abfed0b053b3dc04</string>
+	<key>DATABASE_URL</key>
+	<string>https://orlando-predators-35d13-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

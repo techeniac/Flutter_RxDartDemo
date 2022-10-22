@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80991666253",
+    "firebase_url": "https://orlando-predators-35d13-default-rtdb.firebaseio.com",
+    "project_id": "orlando-predators-35d13",
+    "storage_bucket": "orlando-predators-35d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80991666253:android:4921b5f61b38ccaab3dc04",
+        "android_client_info": {
+          "package_name": "com.app.orlandopredators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80991666253-kj325tt2qufh68jhcg612et19n59cbmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.orlandopredators",
+            "certificate_hash": "2782c91333bbd514eb77a50e299cca909090ef25"
+          }
+        },
+        {
+          "client_id": "80991666253-s61csd7mb555rgj7jl2n1685kcaeqkbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxUOBAyxZBgOnDqXI-ZXBqiyUy_XRV1TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80991666253-s61csd7mb555rgj7jl2n1685kcaeqkbr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80991666253-5c2c8ga610chh2obk9orq0b3s4r5kl99.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.orlandoPredators"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
