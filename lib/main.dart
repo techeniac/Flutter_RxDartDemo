@@ -8,6 +8,6 @@ Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   SharedPreferences prefsObject = await SharedPreferences.getInstance();
-  prefs = prefsObject;
+  prefs = prefsObject; 
   runApp(const ExampleApp());
 }
